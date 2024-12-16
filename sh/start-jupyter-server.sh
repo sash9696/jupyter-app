@@ -5,7 +5,6 @@
 
 echo -e "\x1b[34m\x1b[43mStarting Jupyter Server\x1b[0m"
 echo
-
 # Make sure the token environment variable is set
 if [ -z "$JUPYTER_TOKEN" ]; then
     echo "Error: JUPYTER_TOKEN is not set!"
