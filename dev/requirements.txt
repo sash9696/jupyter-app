@@ -1,0 +1,2 @@
+jupyter
+# Add any other dependencies your project needs here
